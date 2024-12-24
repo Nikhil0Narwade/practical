@@ -1,0 +1,2 @@
+# practical
+setting up git
